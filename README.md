@@ -3,16 +3,6 @@
 
 I am a game developer who quit his career to dedicate his life and work to Jesus Christ. 
 
-Currently working on:
-- 
-1. 1. [ ] Evangelist Study Bible
-- An entirely new category of Christian books.
-- Made accessible for free online.
-2. 2. [ ] Salty Friends
-- A video podcast that I do with my best friends to chat about scripture. 
-3. 3. [ ] Game Project
-- A new game designed collaboratively with believers to create an entertaining game to play with friends and learn how to evangelize and spread the message of Christ.
-
 
 <!--
 **marvingregormrzyglod/marvingregormrzyglod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTgwMTE5OCwxNjk4OTg0Mjc0LC0yMT
-AxNTQxNjU4XX0=
+eyJoaXN0b3J5IjpbMjQ5ODM1MDkzLDE2OTg5ODQyNzQsLTIxMD
+E1NDE2NThdfQ==
 -->
