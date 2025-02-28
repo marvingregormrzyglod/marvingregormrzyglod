@@ -6,8 +6,10 @@ I am a game developer who quit his career to dedicate his life and work to Jesus
 Currently working on:
 - 
 1. 1. [ ] Evangelist Study Bible
-- Entirely new category 
 - A new translation of the bible designed for modern evangelicals who enjoy reading bite-sized scripture.
+- An entirely new category of bibles.
+- Made accessible for free online.
+2. 2. [ ] Salty Friends 
 
 <!--
 **marvingregormrzyglod/marvingregormrzyglod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,5 +26,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDMyNTEwLC0yMTAxNTQxNjU4XX0=
+eyJoaXN0b3J5IjpbLTk5OTM0ODE2NSwtMjEwMTU0MTY1OF19
 -->
