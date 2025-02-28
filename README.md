@@ -5,8 +5,7 @@ I am a game developer who quit his career to dedicate his life and work to Jesus
 
 Currently working on:
 - 
-+ f
-		+ 
+1. [ ] Evangelist Study Bible (a 
 
 <!--
 **marvingregormrzyglod/marvingregormrzyglod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgyMzY0MTIsLTIxMDE1NDE2NThdfQ
-==
+eyJoaXN0b3J5IjpbMTA5ODU5MDY5MSwtMjEwMTU0MTY1OF19
 -->
