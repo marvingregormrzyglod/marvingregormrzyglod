@@ -9,7 +9,10 @@ Currently working on:
 - A new translation of the bible designed for modern evangelicals who enjoy reading bite-sized scripture.
 - An entirely new category of bibles.
 - Made accessible for free online.
-2. 2. [ ] Salty Friends 
+2. 2. [ ] Salty Friends
+- A video podcast that I do with my best friends to chat about scripture. 
+3. 3. [ ] Game Project
+- A new game designed collaboratively with believers 
 
 <!--
 **marvingregormrzyglod/marvingregormrzyglod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,5 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTM0ODE2NSwtMjEwMTU0MTY1OF19
+eyJoaXN0b3J5IjpbLTExODc0NjI2NDgsLTIxMDE1NDE2NThdfQ
+==
 -->
