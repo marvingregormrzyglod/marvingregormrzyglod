@@ -12,7 +12,8 @@ Currently working on:
 2. 2. [ ] Salty Friends
 - A video podcast that I do with my best friends to chat about scripture. 
 3. 3. [ ] Game Project
-- A new game designed collaboratively with believers 
+- A new game designed collaboratively with believers to create an entertaining game to play with friends and learn how to evangelize and spread the message of Christ.
+
 
 <!--
 **marvingregormrzyglod/marvingregormrzyglod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +30,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc0NjI2NDgsLTIxMDE1NDE2NThdfQ
-==
+eyJoaXN0b3J5IjpbMTY5ODk4NDI3NCwtMjEwMTU0MTY1OF19
 -->
