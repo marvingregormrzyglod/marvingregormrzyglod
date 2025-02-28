@@ -6,8 +6,7 @@ I am a game developer who quit his career to dedicate his life and work to Jesus
 Currently working on:
 - 
 1. 1. [ ] Evangelist Study Bible
-- A new translation of the bible designed for modern evangelicals who enjoy reading bite-sized scripture.
-- An entirely new category of bibles.
+- An entirely new category of Christian books.
 - Made accessible for free online.
 2. 2. [ ] Salty Friends
 - A video podcast that I do with my best friends to chat about scripture. 
@@ -30,5 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODk4NDI3NCwtMjEwMTU0MTY1OF19
+eyJoaXN0b3J5IjpbLTI1OTgwMTE5OCwxNjk4OTg0Mjc0LC0yMT
+AxNTQxNjU4XX0=
 -->
